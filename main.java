@@ -1,4 +1,4 @@
-public static void initSchema(Location loc1, Location loc2,Type type) {
+public static void initZone(Location loc1, Location loc2) {
   	int topBlockX = (loc1.getBlockX() < loc2.getBlockX()) ? loc2.getBlockX() : loc1.getBlockX();
 	int bottomBlockX = (loc1.getBlockX() > loc2.getBlockX()) ? loc2.getBlockX() : loc1.getBlockX();
 	int topBlockY = (loc1.getBlockY() < loc2.getBlockY()) ? loc2.getBlockY() : loc1.getBlockY();
