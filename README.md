@@ -1,4 +1,4 @@
-# ArenaRegen by DieuOurs
+# RegionMaker by DieuOurs
 
 ## Partie de code pour sélectionner des blocks entre deux postion dans une dimention de type x;y;z
 
